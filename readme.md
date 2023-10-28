@@ -83,7 +83,6 @@ string public prompt = "Classical Cyborg dressed formally as hitman on the surfa
 
 ## Explorer Used
 - [Goerli Testnet Explorer](https://goerli.etherscan.io)
-- [Polygon PoS Chain Testnet Explorer](https://mumbai.polygonscan.com)
 
 ## Authors
 
