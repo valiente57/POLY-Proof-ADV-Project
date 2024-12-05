@@ -84,12 +84,3 @@ string public prompt = "Classical Cyborg dressed formally as hitman on the surfa
 ## Explorer Used
 - [Goerli Testnet Explorer](https://goerli.etherscan.io)
 
-## Authors
-
-- Priyanshu Vasava
-- priyanshuvasava777@gmail.com
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
